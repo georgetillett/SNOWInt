@@ -1,0 +1,254 @@
+﻿<xml>
+  <sys_user_group>
+    <active>true</active>
+    <default_assignee/>
+    <description>
+      This Tier 3 group is the next escalation point beyond the Tier 2 group (ROPS Apps Support), and is specifically for legacy (non-Nautilus) ROPS applications related to Billing, such as ROBEE and Boris Billing. Escalation should only come from Tier 2. Membership includes the most technical and most knowledgeable people for the application - there is no higher level of escalation.
+    </description>
+    <email/>
+    <exclude_manager>true</exclude_manager>
+    <hourly_rate>0</hourly_rate>
+    <include_members>false</include_members>
+    <manager>da2eaef278508900ba880a8925f7fe9a</manager>
+    <name>App Support (Billing Apps)</name>
+    <parent/>
+    <roles/>
+    <source/>
+    <sys_created_by>hsweeney</sys_created_by>
+    <sys_created_on>2014-11-06 20:38:05</sys_created_on>
+    <sys_id>221dff1030d03100ba88c7152059491e</sys_id>
+    <sys_mod_count>0</sys_mod_count>
+    <sys_updated_by>hsweeney</sys_updated_by>
+    <sys_updated_on>2014-11-06 20:38:05</sys_updated_on>
+    <type>
+      0753d0cc4dd4dd001d405a3b07851118,74af88c6c611227d0066386e74dc853d,79b4acc04d18dd001d405a3b078511a6,8d7520044d18dd001d405a3b078511d9
+    </type>
+    <u_director>b434befe78508900ba880a8925f7fe55</u_director>
+    <u_labs_group>false</u_labs_group>
+    <u_team_unity_telecom>false</u_team_unity_telecom>
+  </sys_user_group>
+  <sys_user_group>
+    <active>true</active>
+    <default_assignee/>
+    <description>
+      This Tier 3 group is the next escalation point beyond the Tier 2 group (ROPS Apps Support), and is specifically for ROPS applications related to payments to claims, such as Oliver. Escalation should only come from Tier 2. Membership includes the most technical and most knowledgeable people for the application - there is no higher level of escalation.
+    </description>
+    <email/>
+    <exclude_manager>true</exclude_manager>
+    <hourly_rate>0</hourly_rate>
+    <include_members>false</include_members>
+    <manager>da2eaef278508900ba880a8925f7fe9a</manager>
+    <name>App Support (Cash Apps)</name>
+    <parent/>
+    <roles/>
+    <source/>
+    <sys_created_by>hsweeney</sys_created_by>
+    <sys_created_on>2014-11-19 21:13:59</sys_created_on>
+    <sys_id>55a10764302c7100ba88c71520594900</sys_id>
+    <sys_mod_count>0</sys_mod_count>
+    <sys_updated_by>hsweeney</sys_updated_by>
+    <sys_updated_on>2014-11-19 21:13:59</sys_updated_on>
+    <type>
+      0753d0cc4dd4dd001d405a3b07851118,74af88c6c611227d0066386e74dc853d,79b4acc04d18dd001d405a3b078511a6,8d7520044d18dd001d405a3b078511d9
+    </type>
+    <u_director>b434befe78508900ba880a8925f7fe55</u_director>
+    <u_labs_group>false</u_labs_group>
+    <u_team_unity_telecom>false</u_team_unity_telecom>
+  </sys_user_group>
+  <sys_user_group>
+    <active>true</active>
+    <default_assignee/>
+    <description>
+      This Tier 3 group is the next escalation point beyond the Tier 2 group (ROPS Apps Support), and is specifically for legacy ROPS applications related to Collections, such as Maxine and ROPS Hierarchy. Escalation should only come from Tier 2. Membership includes the most technical and most knowledgeable people for the application - there is no higher level of escalation.
+    </description>
+    <email/>
+    <exclude_manager>true</exclude_manager>
+    <hourly_rate>0</hourly_rate>
+    <include_members>false</include_members>
+    <manager>da2eaef278508900ba880a8925f7fe9a</manager>
+    <name>App Support (Collections Apps)</name>
+    <parent/>
+    <roles/>
+    <source/>
+    <sys_created_by>hsweeney</sys_created_by>
+    <sys_created_on>2014-11-06 21:14:38</sys_created_on>
+    <sys_id>0a7540a030d03100ba88c71520594924</sys_id>
+    <sys_mod_count>0</sys_mod_count>
+    <sys_updated_by>hsweeney</sys_updated_by>
+    <sys_updated_on>2014-11-06 21:14:38</sys_updated_on>
+    <type>
+      0753d0cc4dd4dd001d405a3b07851118,74af88c6c611227d0066386e74dc853d,79b4acc04d18dd001d405a3b078511a6,8d7520044d18dd001d405a3b078511d9
+    </type>
+    <u_director>b434befe78508900ba880a8925f7fe55</u_director>
+    <u_labs_group>false</u_labs_group>
+    <u_team_unity_telecom>false</u_team_unity_telecom>
+  </sys_user_group>
+  <sys_user_group>
+    <active>true</active>
+    <default_assignee/>
+    <description>
+      This Tier 3 group is the next escalation point beyond the Tier 2 group (ROPS Apps Support), and is specifically for the Nautilus business service. Escalation should only come from Tier 2. Membership includes the most technical and most knowledgeable people for the application - there is no higher level of escalation.
+    </description>
+    <email/>
+    <exclude_manager>true</exclude_manager>
+    <hourly_rate>0</hourly_rate>
+    <include_members>false</include_members>
+    <manager>da2eaef278508900ba880a8925f7fe9a</manager>
+    <name>App Support (Nautilus)</name>
+    <parent/>
+    <roles/>
+    <source/>
+    <sys_created_by>hsweeney</sys_created_by>
+    <sys_created_on>2014-10-16 15:40:21</sys_created_on>
+    <sys_id>0b2faee99033a9001d40eaa18e0ac842</sys_id>
+    <sys_mod_count>1</sys_mod_count>
+    <sys_updated_by>hsweeney</sys_updated_by>
+    <sys_updated_on>2014-10-16 15:43:03</sys_updated_on>
+    <type>
+      0753d0cc4dd4dd001d405a3b07851118,74af88c6c611227d0066386e74dc853d,79b4acc04d18dd001d405a3b078511a6,8d7520044d18dd001d405a3b078511d9
+    </type>
+    <u_director>b434befe78508900ba880a8925f7fe55</u_director>
+    <u_labs_group>false</u_labs_group>
+    <u_team_unity_telecom>false</u_team_unity_telecom>
+  </sys_user_group>
+  <sys_user_group>
+    <active>true</active>
+    <default_assignee/>
+    <description>
+      This Tier 3 group is the next escalation point beyond the Tier 2 group (ROPS Apps Support), and is specifically for ROPS applications related to Patient Registration and Eligibility, such as Reggie. Escalation should only come from Tier 2. Membership includes the most technical and most knowledgeable people for the application - there is no higher level of escalation.
+    </description>
+    <email/>
+    <exclude_manager>true</exclude_manager>
+    <hourly_rate>0</hourly_rate>
+    <include_members>false</include_members>
+    <manager>2ce49a7278dc4900ba880a8925f7fea6</manager>
+    <name>App Support (Patient Access Apps)</name>
+    <parent/>
+    <roles/>
+    <source/>
+    <sys_created_by>hsweeney</sys_created_by>
+    <sys_created_on>2014-11-06 19:32:18</sys_created_on>
+    <sys_id>070eab9c30903100ba88c71520594934</sys_id>
+    <sys_mod_count>0</sys_mod_count>
+    <sys_updated_by>hsweeney</sys_updated_by>
+    <sys_updated_on>2014-11-06 19:32:18</sys_updated_on>
+    <type>
+      0753d0cc4dd4dd001d405a3b07851118,74af88c6c611227d0066386e74dc853d,79b4acc04d18dd001d405a3b078511a6,8d7520044d18dd001d405a3b078511d9
+    </type>
+    <u_director>c3603a3a78508900ba880a8925f7feb2</u_director>
+    <u_labs_group>false</u_labs_group>
+    <u_team_unity_telecom>false</u_team_unity_telecom>
+  </sys_user_group>
+  <sys_user_group>
+    <active>true</active>
+    <default_assignee/>
+    <description>
+      OAS is primarily responsible for application server infrastructure support, including: app/OS interaction, middleware (IIS, .NET, CF, Oracle/SQL providers), troubleshooting, app/platform installation/configuration and outage resolution and root cause analysis.
+    </description>
+    <email/>
+    <exclude_manager>true</exclude_manager>
+    <hourly_rate>0</hourly_rate>
+    <include_members>false</include_members>
+    <manager>6e051ab278dc4900ba880a8925f7fe74</manager>
+    <name>OAS - Operations App Support</name>
+    <parent/>
+    <roles/>
+    <source/>
+    <sys_created_by>hsweeney</sys_created_by>
+    <sys_created_on>2014-02-14 21:52:08</sys_created_on>
+    <sys_id>4f602b435536d1401d4017ac561db55e</sys_id>
+    <sys_mod_count>4</sys_mod_count>
+    <sys_updated_by>hsweeney</sys_updated_by>
+    <sys_updated_on>2014-10-20 15:36:21</sys_updated_on>
+    <type>
+      0753d0cc4dd4dd001d405a3b07851118,79b4acc04d18dd001d405a3b078511a6,8d7520044d18dd001d405a3b078511d9,74af88c6c611227d0066386e74dc853d
+    </type>
+    <u_director>462552f278dc4900ba880a8925f7fe17</u_director>
+    <u_labs_group>false</u_labs_group>
+    <u_team_unity_telecom>false</u_team_unity_telecom>
+  </sys_user_group>
+  <sys_user_group>
+    <active>true</active>
+    <default_assignee/>
+    <description>
+      Ops Mobile App Support (OMAS) provides operations level support for the mobile applications used by the Village.
+    </description>
+    <email/>
+    <exclude_manager>true</exclude_manager>
+    <hourly_rate>0</hourly_rate>
+    <include_members>false</include_members>
+    <manager>5e151eb278dc4900ba880a8925f7feb7</manager>
+    <name>OMAS - Ops Mobile App Support</name>
+    <parent/>
+    <roles/>
+    <source/>
+    <sys_created_by>hsweeney</sys_created_by>
+    <sys_created_on>2015-04-01 15:37:37</sys_created_on>
+    <sys_id>02207ad3bc8fbd00ba8803651965c91e</sys_id>
+    <sys_mod_count>1</sys_mod_count>
+    <sys_updated_by>hsweeney</sys_updated_by>
+    <sys_updated_on>2015-04-01 15:52:15</sys_updated_on>
+    <type>
+      0753d0cc4dd4dd001d405a3b07851118,74af88c6c611227d0066386e74dc853d,79b4acc04d18dd001d405a3b078511a6,8d7520044d18dd001d405a3b078511d9
+    </type>
+    <u_director>462552f278dc4900ba880a8925f7fe17</u_director>
+    <u_labs_group>false</u_labs_group>
+    <u_team_unity_telecom>false</u_team_unity_telecom>
+  </sys_user_group>
+  <sys_user_group>
+    <active>true</active>
+    <default_assignee/>
+    <description>
+      Application Systems Analysts supporting our approx 25 pharmacy applications such as Fair Fax, Rx Express, Rex Portal, etc.
+    </description>
+    <email/>
+    <exclude_manager>true</exclude_manager>
+    <hourly_rate>0</hourly_rate>
+    <include_members>false</include_members>
+    <manager>7f2172ba78508900ba880a8925f7fe5b</manager>
+    <name>Rx App Support</name>
+    <parent/>
+    <roles/>
+    <source/>
+    <sys_created_by>hsweeney</sys_created_by>
+    <sys_created_on>2014-07-23 14:24:48</sys_created_on>
+    <sys_id>7b8d20d6d5ca6100ba888d23aa4568d5</sys_id>
+    <sys_mod_count>1</sys_mod_count>
+    <sys_updated_by>hsweeney</sys_updated_by>
+    <sys_updated_on>2014-07-23 14:36:25</sys_updated_on>
+    <type>
+      0753d0cc4dd4dd001d405a3b07851118,74af88c6c611227d0066386e74dc853d,79b4acc04d18dd001d405a3b078511a6,8d7520044d18dd001d405a3b078511d9
+    </type>
+    <u_director>a239b2f678908900ba880a8925f7fe96</u_director>
+    <u_labs_group>false</u_labs_group>
+    <u_team_unity_telecom>false</u_team_unity_telecom>
+  </sys_user_group>
+  <sys_user_group>
+    <active>true</active>
+    <default_assignee/>
+    <description>
+      Group description indicating the main areas of expertise: Responsible for the support of all VillageHealth applications (Capella, Capella Lite, PCM Mobile, KidneySmart Recommendations, Patient Engagement, VHN Rounding).
+    </description>
+    <email/>
+    <exclude_manager>true</exclude_manager>
+    <hourly_rate>0</hourly_rate>
+    <include_members>false</include_members>
+    <manager>9a8aea7a78108900ba880a8925f7fe33</manager>
+    <name>VillageHealth IT App Support</name>
+    <parent/>
+    <roles/>
+    <source/>
+    <sys_created_by>hsweeney</sys_created_by>
+    <sys_created_on>2015-01-16 22:36:47</sys_created_on>
+    <sys_id>a1214edbe16931001d40a589ae18419d</sys_id>
+    <sys_mod_count>0</sys_mod_count>
+    <sys_updated_by>hsweeney</sys_updated_by>
+    <sys_updated_on>2015-01-16 22:36:47</sys_updated_on>
+    <type>
+      0753d0cc4dd4dd001d405a3b07851118,74af88c6c611227d0066386e74dc853d,79b4acc04d18dd001d405a3b078511a6,8d7520044d18dd001d405a3b078511d9
+    </type>
+    <u_director>f288b77e017791c0216148b80831db0c</u_director>
+    <u_labs_group>false</u_labs_group>
+    <u_team_unity_telecom>false</u_team_unity_telecom>
+  </sys_user_group>
+</xml>

@@ -1,0 +1,192 @@
+﻿	.taskItem
+	{ 
+	color:#990000;
+	}
+	.taskItem a
+	{ 
+	color:#990000; 
+	}
+	.taskItem a:visited
+	{ 
+	color:#990000; 
+	}
+	.taskItem a:active
+	{
+	color:#990000; 
+	}
+	.taskItemTitle
+	{
+	padding-left:50px;
+	}
+	.taskItemHours
+	{
+	    text-align: right;
+	    padding-right: 2px;
+	    padding-left: 2px;
+	}
+	.userStory
+	{ 
+	color:#0066CC;
+	padding-left:5px;
+	padding-right:5px;
+	padding-top:5px;
+	padding-bottom:5px;
+	}
+	.userStory a
+	{ 
+	color:#0066CC; 
+	}
+	.userStory a:active
+	{ 
+	color:#0066CC; 
+	}
+	.userStory a:visited
+	{ 
+	color:#0066CC; 
+	}
+	.alternateRow
+	{ 
+	background-color:#E9EDEC
+	}
+	.mainTable
+	{
+	width:95%;
+	margin:20px 20px 20px 20px;
+	}
+	.projectGroupTable
+	{
+	width:100%;
+	background-color:#CCCCCC;
+	padding:0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+	}
+	.projectGroup
+	{
+	padding:5px 20px 5px 20px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#003399;
+	white-space: nowrap;
+	}
+	.projectGroupSelected
+	{
+		border:1px black solid;
+		background-color:#FFFFFF;
+		padding:2px 10px 2px 10px;
+	}
+	.projectGroup a
+	{
+	color:#003399;
+	text-decoration: none;
+	}
+	.projectGroup a:visited
+	{
+	color:#003399;
+}
+.projectGroup a:active
+{
+color:#003399;
+}
+.headerRow td
+{
+padding:5px 5px 5px 5px;
+}
+.sprintName
+{
+	padding:2px 10px 2px 10px;
+	border:1px black solid;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:black;
+	white-space: nowrap;
+	background-color:#FFFFFF;
+}
+.sprintName a
+{
+color:black;
+text-decoration: none;
+}
+.sprintName a:visited
+{
+color:black;
+}
+.sprintName a:active
+{
+color:black;
+}
+.hiddenRow
+{
+	display:none;
+}
+.hiddenColumn
+{
+	display:none;
+}
+.expander
+{
+	padding:2px 2px 2px 2px;
+	cursor:pointer;
+	width:20px;
+}
+
+.selectedRow
+{
+    background-color: #0066FF;
+}
+.hiddenControl
+{
+    display:none;
+}
+.filterLine
+{
+    background-color: #C0C0C0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#003399;
+	width:100%;
+	height:20px;
+}
+.filterLine-Left
+{
+    position: relative;
+    float: left;
+    width: 48%;
+	height:20px;
+    padding-left:20px;
+    vertical-align:middle;
+}
+.filterLine-Left a
+{
+    padding-right:5px;
+}
+.filterLine-Right
+{
+    position: relative;
+    float: left;
+    width: 48%;
+    text-align: right;
+	height:20px;
+	padding-right:20px;
+    vertical-align:middle;
+}
+.filterLine-label
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    vertical-align: middle;
+}
+.filterLine-label button
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    height:20px;
+}
+.modalFilterHeader
+{
+    margin-right:5px;
+}
+.modalFilterItem
+{
+    text-decoration:none;
+}

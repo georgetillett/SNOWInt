@@ -1,0 +1,112 @@
+﻿
+	.taskStatus_NotStarted a
+	{
+		font-weight:bold;
+		color:#CC0000;
+	}
+	.taskStatus_NotStarted a:visited
+	{
+		font-weight:bold;
+		color:#CC0000;
+	}
+	.taskStatus_NotStarted a:active
+	{
+		font-weight:bold;
+		color:#CC0000;
+	}
+	.taskStatus_InProgress a
+	{
+		font-weight:bold;
+		color:#00CC00;
+	}
+	.taskStatus_InProgress a:visited
+	{
+		font-weight:bold;
+		color:#00CC00;
+	}
+	.taskStatus_InProgress a:active
+	{
+		font-weight:bold;
+		color:#00CC00;
+	}
+	.taskStatus_Complete a
+	{
+		font-weight:bold;
+		color:#0066FF;
+	}
+	.taskStatus_Complete a:visited
+	{
+		font-weight:bold;
+		color:#0066FF;
+	}
+	.taskStatus_Complete a:active
+	{
+		font-weight:bold;
+		color:#0066FF;
+	}
+	.storyStatusMarker_NotStarted
+	{
+		width:10px; height:10px; 
+		margin-right:5px;
+		border:1px black solid;
+		background-color:#CC0000;
+		color:black;
+		float:left;
+	}
+	.storyStatusMarker_InProgress
+	{
+		width:10px; height:10px; 
+		margin-right:5px;
+		border:1px black solid;
+		background-color:#00FF00;
+		color:black;
+		float:left;
+	}
+	.storyStatusMarker_Complete
+	{
+		width:10px; height:10px; 
+		margin-right:5px;
+		border:1px black solid;
+		background-color:#00CCFF;
+		color:black;
+		float:left;
+	}
+	.storyStatusMarker_InQA
+	{
+		width:10px; height:10px; 
+		margin-right:5px;
+		border:1px black solid;
+		background-color:#CC33FF;
+		color:black;
+		float:left;
+	}
+	.storyStatusMarker_Archive
+	{
+		width:10px; height:10px; 
+		margin-right:5px;
+		border:1px black solid;
+		background-color:#C0C0C0;
+		color:black;
+		float:left;
+	}
+	.statusLegendPopout
+	{
+		padding: 2px 2px 2px 2px;
+		margin-left:80px;
+		background-color:white;
+		border:1px black solid;
+		position :absolute;
+		z-index:0;
+	}
+    .newIncidentIndicator
+    {
+        padding-left:2px;
+        font-weight:bold;
+        color: Red;
+        
+    }
+    .priorityHigh
+    {
+        color:Red;
+        font-weight:bold;
+    }

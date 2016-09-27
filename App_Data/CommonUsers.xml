@@ -1,0 +1,23 @@
+﻿<xml>
+  <user serviceNowUserID="chrshaw" nickname="Chris" />
+  <user serviceNowUserID="bbaskaran" nickname="Bala" />
+  <user serviceNowUserID="jrobert" />
+  <user serviceNowUserID="smallavarapu" />
+  <user serviceNowUserID="rmohan" />
+  <user serviceNowUserID="nipatel" />
+  <user serviceNowUserID="pgeorge" />
+  <user serviceNowUserID="rc38475" />
+  <user serviceNowUserID="gtillett" />
+  <user serviceNowUserID="canewton" />
+  <user serviceNowUserID="suchitukula" />
+
+  <!--
+  <user serviceNowUserID="rkotriwal" />
+  <user serviceNowUserID="rstrange" />
+  <user serviceNowUserID="bsankarasubbu" nickname="Bala S." />
+  <user serviceNowUserID="yabdelsamae" />
+  <user serviceNowUserID="rseetharaman" nickname="Raji" />
+  <user serviceNowUserID="vigupta" />
+  <user serviceNowUserID="kehooper" />
+  -->
+</xml>

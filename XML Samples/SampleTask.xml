@@ -1,0 +1,1215 @@
+﻿<xml>
+  <change_task>
+    <active>true</active>
+    <activity_due/>
+    <approval>not requested</approval>
+    <approval_history/>
+    <approval_set/>
+    <assigned_to>ebd87ab678908900ba880a8925f7fed3</assigned_to>
+    <assignment_group>55a10764302c7100ba88c71520594900</assignment_group>
+    <business_duration/>
+    <calendar_duration/>
+    <change_request>766d40337d598a802161ab9eae4ef928</change_request>
+    <close_notes/>
+    <closed_at/>
+    <closed_by/>
+    <cmdb_ci/>
+    <comments/>
+    <comments_and_work_notes/>
+    <commworks_id/>
+    <company/>
+    <contact_type>phone</contact_type>
+    <correlation_display/>
+    <correlation_id/>
+    <description/>
+    <dis_cw_int>false</dis_cw_int>
+    <due_date>2015-07-24 14:00:00</due_date>
+    <escalation>0</escalation>
+    <expected_start>2015-07-23 14:00:00</expected_start>
+    <follow_up/>
+    <group_list/>
+    <impact>3</impact>
+    <knowledge>false</knowledge>
+    <location/>
+    <made_sla>true</made_sla>
+    <number>CTASK0061507</number>
+    <opened_at>2015-07-23 13:31:08</opened_at>
+    <opened_by>bf6baa3e78108900ba880a8925f7fe8d</opened_by>
+    <order/>
+    <parent>766d40337d598a802161ab9eae4ef928</parent>
+    <priority>5</priority>
+    <reassignment_count>1</reassignment_count>
+    <rejection_goto/>
+    <requested_for>bf6baa3e78108900ba880a8925f7fe8d</requested_for>
+    <service_offering/>
+    <short_description>Validation Oliver</short_description>
+    <skills/>
+    <sla_due/>
+    <state>1</state>
+    <sys_class_name>change_task</sys_class_name>
+    <sys_created_by>sw36217</sys_created_by>
+    <sys_created_on>2015-07-23 13:31:08</sys_created_on>
+    <sys_domain>global</sys_domain>
+    <sys_id>bd2f40f37d598a802161ab9eae4ef965</sys_id>
+    <sys_mod_count>1</sys_mod_count>
+    <sys_updated_by>sw36217</sys_updated_by>
+    <sys_updated_on>2015-07-23 13:35:10</sys_updated_on>
+    <time_worked/>
+    <u_business_service/>
+    <u_last_updated_by_caller>false</u_last_updated_by_caller>
+    <u_see_all_business_services>false</u_see_all_business_services>
+    <u_see_groups>false</u_see_groups>
+    <upon_approval>proceed</upon_approval>
+    <upon_reject>cancel</upon_reject>
+    <urgency>3</urgency>
+    <user_input/>
+    <variables/>
+    <watch_list/>
+    <wf_activity/>
+    <work_end/>
+    <work_notes/>
+    <work_notes_list/>
+    <work_start/>
+  </change_task>
+  <change_task>
+    <active>true</active>
+    <activity_due/>
+    <approval>not requested</approval>
+    <approval_history/>
+    <approval_set/>
+    <assigned_to>fb8ec943a0b3cdc0216100e1204f7d51</assigned_to>
+    <assignment_group>84256ca40c0d9904b2e1b681da2e5235</assignment_group>
+    <business_duration/>
+    <calendar_duration/>
+    <change_request>2876fc657d9142802161ab9eae4ef942</change_request>
+    <close_notes/>
+    <closed_at/>
+    <closed_by/>
+    <cmdb_ci/>
+    <comments/>
+    <comments_and_work_notes/>
+    <commworks_id/>
+    <company/>
+    <contact_type>phone</contact_type>
+    <correlation_display/>
+    <correlation_id/>
+    <description/>
+    <dis_cw_int>false</dis_cw_int>
+    <due_date>2015-07-28 03:00:00</due_date>
+    <escalation>0</escalation>
+    <expected_start>2015-07-28 01:01:00</expected_start>
+    <follow_up/>
+    <group_list/>
+    <impact>3</impact>
+    <knowledge>false</knowledge>
+    <location/>
+    <made_sla>true</made_sla>
+    <number>CTASK0061382</number>
+    <opened_at>2015-07-22 16:59:03</opened_at>
+    <opened_by>c3dfd94ad5342140b2e1bbdbfe2b572f</opened_by>
+    <order/>
+    <parent>2876fc657d9142802161ab9eae4ef942</parent>
+    <priority>5</priority>
+    <reassignment_count>0</reassignment_count>
+    <rejection_goto/>
+    <requested_for>c3dfd94ad5342140b2e1bbdbfe2b572f</requested_for>
+    <service_offering/>
+    <short_description>Validation</short_description>
+    <skills/>
+    <sla_due/>
+    <state>1</state>
+    <sys_class_name>change_task</sys_class_name>
+    <sys_created_by>tnarayangopalasamud</sys_created_by>
+    <sys_created_on>2015-07-22 16:59:35</sys_created_on>
+    <sys_domain>global</sys_domain>
+    <sys_id>2925335ffc958e80b2e1e15c730b7bcc</sys_id>
+    <sys_mod_count>3</sys_mod_count>
+    <sys_updated_by>tnarayangopalasamud</sys_updated_by>
+    <sys_updated_on>2015-07-22 17:56:40</sys_updated_on>
+    <time_worked/>
+    <u_business_service/>
+    <u_last_updated_by_caller>false</u_last_updated_by_caller>
+    <u_see_all_business_services>false</u_see_all_business_services>
+    <u_see_groups>false</u_see_groups>
+    <upon_approval>proceed</upon_approval>
+    <upon_reject>cancel</upon_reject>
+    <urgency>3</urgency>
+    <user_input/>
+    <variables/>
+    <watch_list/>
+    <wf_activity/>
+    <work_end/>
+    <work_notes/>
+    <work_notes_list/>
+    <work_start/>
+  </change_task>
+  <sc_task>
+    <active>true</active>
+    <activity_due/>
+    <approval>approved</approval>
+    <approval_history/>
+    <approval_set>2015-07-20 17:52:33</approval_set>
+    <assigned_to>ebd87ab678908900ba880a8925f7fed3</assigned_to>
+    <assignment_group>55a10764302c7100ba88c71520594900</assignment_group>
+    <business_duration/>
+    <calendar_duration/>
+    <calendar_stc/>
+    <close_notes/>
+    <closed_at/>
+    <closed_by/>
+    <cmdb_ci/>
+    <comments/>
+    <comments_and_work_notes/>
+    <commworks_id/>
+    <company/>
+    <contact_type>phone</contact_type>
+    <correlation_display/>
+    <correlation_id/>
+    <description>
+      eGate - Please verify and mark Complete the following Credit_XIO_Ack_Oliver records that failed to flow to Oliver: CORRELATIONID|1 89355493|1 89355520|1
+    </description>
+    <dis_cw_int>false</dis_cw_int>
+    <due_date>2015-07-20 17:52:33</due_date>
+    <escalation>0</escalation>
+    <expected_start>2015-07-20 17:52:33</expected_start>
+    <follow_up/>
+    <group_list/>
+    <impact>3</impact>
+    <knowledge>false</knowledge>
+    <location>280d10b078488100ba880a8925f7fe7d</location>
+    <made_sla>true</made_sla>
+    <number>TASK0401313</number>
+    <opened_at>2015-07-20 17:52:33</opened_at>
+    <opened_by>154f62b678508900ba880a8925f7fede</opened_by>
+    <order/>
+    <parent>653eadbefc5d8a80b2e1e15c730b7be7</parent>
+    <priority>5</priority>
+    <reassignment_count>0</reassignment_count>
+    <rejection_goto/>
+    <request>253eadbefc5d8a80b2e1e15c730b7be7</request>
+    <request_item>653eadbefc5d8a80b2e1e15c730b7be7</request_item>
+    <requested_for>154f62b678508900ba880a8925f7fede</requested_for>
+    <sc_catalog/>
+    <service_offering/>
+    <short_description>
+      eGate - Please verify and mark Complete the following Credit_XIO_Ack_Oliver records that failed to flow to Oliver:
+    </short_description>
+    <skills/>
+    <sla_due/>
+    <state>1</state>
+    <sys_class_name>sc_task</sys_class_name>
+    <sys_created_by>mfasang</sys_created_by>
+    <sys_created_on>2015-07-20 17:52:33</sys_created_on>
+    <sys_domain>global</sys_domain>
+    <sys_id>793eedbefc5d8a80b2e1e15c730b7b49</sys_id>
+    <sys_mod_count>1</sys_mod_count>
+    <sys_updated_by>sw36217</sys_updated_by>
+    <sys_updated_on>2015-07-21 18:15:39</sys_updated_on>
+    <time_worked/>
+    <u_business_service>5c8d662be07d010023bed08aacdad56f</u_business_service>
+    <u_estimated_hardware_cost/>
+    <u_estimated_software_cost/>
+    <u_ftm_hours/>
+    <u_gtm_hours/>
+    <u_last_updated_by_caller>false</u_last_updated_by_caller>
+    <u_see_all_business_services>false</u_see_all_business_services>
+    <u_see_groups>false</u_see_groups>
+    <upon_approval>proceed</upon_approval>
+    <upon_reject>cancel</upon_reject>
+    <urgency>3</urgency>
+    <user_input/>
+    <variables/>
+    <watch_list/>
+    <wf_activity>ac4add16b001b100ba88d94f197fd063</wf_activity>
+    <work_end/>
+    <work_notes/>
+    <work_notes_list/>
+    <work_start/>
+  </sc_task>
+  <sc_task>
+    <active>true</active>
+    <activity_due/>
+    <approval>approved</approval>
+    <approval_history/>
+    <approval_set>2015-07-20 17:31:07</approval_set>
+    <assigned_to>ebd87ab678908900ba880a8925f7fed3</assigned_to>
+    <assignment_group>55a10764302c7100ba88c71520594900</assignment_group>
+    <business_duration/>
+    <calendar_duration/>
+    <calendar_stc/>
+    <close_notes/>
+    <closed_at/>
+    <closed_by/>
+    <cmdb_ci/>
+    <comments/>
+    <comments_and_work_notes/>
+    <commworks_id/>
+    <company/>
+    <contact_type>phone</contact_type>
+    <correlation_display/>
+    <correlation_id/>
+    <description>
+      "Maxine(CORRELATION_ID),KF(X-davita-egate-message-id|X-davita-egate-business-key~<user_properties>)" 4372409 4379900 4379861 4379843 4379905 4372697 4372718 4372727 4369205
+</description>
+    <dis_cw_int>false</dis_cw_int>
+    <due_date>2015-07-20 17:31:07</due_date>
+    <escalation>0</escalation>
+    <expected_start>2015-07-20 17:31:07</expected_start>
+    <follow_up/>
+    <group_list/>
+    <impact>3</impact>
+    <knowledge>false</knowledge>
+    <location>280d10b078488100ba880a8925f7fe7d</location>
+    <made_sla>true</made_sla>
+    <number>TASK0401270</number>
+    <opened_at>2015-07-20 17:31:07</opened_at>
+    <opened_by>154f62b678508900ba880a8925f7fede</opened_by>
+    <order/>
+    <parent>d349e1f2fc5d8a80b2e1e15c730b7b4b</parent>
+    <priority>5</priority>
+    <reassignment_count>0</reassignment_count>
+    <rejection_goto/>
+    <request>9349e1f2fc5d8a80b2e1e15c730b7b4b</request>
+    <request_item>d349e1f2fc5d8a80b2e1e15c730b7b4b</request_item>
+    <requested_for>154f62b678508900ba880a8925f7fede</requested_for>
+    <sc_catalog/>
+    <service_offering/>
+    <short_description>
+      eGate - Please verify and mark complete the following CashCorrection_Ack_Maxine records that failed to flow to Maxine:
+    </short_description>
+    <skills/>
+    <sla_due/>
+    <state>1</state>
+    <sys_class_name>sc_task</sys_class_name>
+    <sys_created_by>mfasang</sys_created_by>
+    <sys_created_on>2015-07-20 17:31:07</sys_created_on>
+    <sys_domain>global</sys_domain>
+    <sys_id>ff49e1f2fc5d8a80b2e1e15c730b7bb9</sys_id>
+    <sys_mod_count>2</sys_mod_count>
+    <sys_updated_by>sw36217</sys_updated_by>
+    <sys_updated_on>2015-07-21 18:11:38</sys_updated_on>
+    <time_worked/>
+    <u_business_service>fb7d662be07d010023bed08aacdad53d</u_business_service>
+    <u_estimated_hardware_cost/>
+    <u_estimated_software_cost/>
+    <u_ftm_hours/>
+    <u_gtm_hours/>
+    <u_last_updated_by_caller>false</u_last_updated_by_caller>
+    <u_see_all_business_services>false</u_see_all_business_services>
+    <u_see_groups>false</u_see_groups>
+    <upon_approval>proceed</upon_approval>
+    <upon_reject>cancel</upon_reject>
+    <urgency>3</urgency>
+    <user_input/>
+    <variables/>
+    <watch_list/>
+    <wf_activity>ac4add16b001b100ba88d94f197fd063</wf_activity>
+    <work_end/>
+    <work_notes/>
+    <work_notes_list/>
+    <work_start/>
+  </sc_task>
+  <sc_task>
+    <active>true</active>
+    <activity_due/>
+    <approval>approved</approval>
+    <approval_history/>
+    <approval_set>2015-07-20 16:47:37</approval_set>
+    <assigned_to>ebd87ab678908900ba880a8925f7fed3</assigned_to>
+    <assignment_group>55a10764302c7100ba88c71520594900</assignment_group>
+    <business_duration/>
+    <calendar_duration/>
+    <calendar_stc/>
+    <close_notes/>
+    <closed_at/>
+    <closed_by/>
+    <cmdb_ci/>
+    <comments/>
+    <comments_and_work_notes/>
+    <commworks_id/>
+    <company/>
+    <contact_type>phone</contact_type>
+    <correlation_display/>
+    <correlation_id/>
+    <description>
+      eGate - Please reprocess the following ClaimNote records from Oliver that failed to flow to Nautilus: ClaimNumber 100488529101 100184937101 100460456101 100562909101 100565433101
+    </description>
+    <dis_cw_int>false</dis_cw_int>
+    <due_date>2015-07-20 16:47:37</due_date>
+    <escalation>0</escalation>
+    <expected_start>2015-07-20 16:47:37</expected_start>
+    <follow_up/>
+    <group_list/>
+    <impact>3</impact>
+    <knowledge>false</knowledge>
+    <location>280d10b078488100ba880a8925f7fe7d</location>
+    <made_sla>true</made_sla>
+    <number>TASK0401216</number>
+    <opened_at>2015-07-20 16:47:37</opened_at>
+    <opened_by>154f62b678508900ba880a8925f7fede</opened_by>
+    <order/>
+    <parent>4e5f11f6fcd98a80b2e1e15c730b7bd8</parent>
+    <priority>5</priority>
+    <reassignment_count>0</reassignment_count>
+    <rejection_goto/>
+    <request>0e5f11f6fcd98a80b2e1e15c730b7bd8</request>
+    <request_item>4e5f11f6fcd98a80b2e1e15c730b7bd8</request_item>
+    <requested_for>154f62b678508900ba880a8925f7fede</requested_for>
+    <sc_catalog/>
+    <service_offering/>
+    <short_description>
+      eGate - Please reprocess the following ClaimNote records from Oliver that failed to flow to Nautilus:
+    </short_description>
+    <skills/>
+    <sla_due/>
+    <state>1</state>
+    <sys_class_name>sc_task</sys_class_name>
+    <sys_created_by>mfasang</sys_created_by>
+    <sys_created_on>2015-07-20 16:47:37</sys_created_on>
+    <sys_domain>global</sys_domain>
+    <sys_id>aa5f51f6fcd98a80b2e1e15c730b7b9e</sys_id>
+    <sys_mod_count>1</sys_mod_count>
+    <sys_updated_by>sw36217</sys_updated_by>
+    <sys_updated_on>2015-07-21 18:10:18</sys_updated_on>
+    <time_worked/>
+    <u_business_service>5c8d662be07d010023bed08aacdad56f</u_business_service>
+    <u_estimated_hardware_cost/>
+    <u_estimated_software_cost/>
+    <u_ftm_hours/>
+    <u_gtm_hours/>
+    <u_last_updated_by_caller>false</u_last_updated_by_caller>
+    <u_see_all_business_services>false</u_see_all_business_services>
+    <u_see_groups>false</u_see_groups>
+    <upon_approval>proceed</upon_approval>
+    <upon_reject>cancel</upon_reject>
+    <urgency>3</urgency>
+    <user_input/>
+    <variables/>
+    <watch_list/>
+    <wf_activity>ac4add16b001b100ba88d94f197fd063</wf_activity>
+    <work_end/>
+    <work_notes/>
+    <work_notes_list/>
+    <work_start/>
+  </sc_task>
+  <sc_task>
+    <active>true</active>
+    <activity_due/>
+    <approval>approved</approval>
+    <approval_history/>
+    <approval_set>2015-07-20 15:14:09</approval_set>
+    <assigned_to>ebd87ab678908900ba880a8925f7fed3</assigned_to>
+    <assignment_group>55a10764302c7100ba88c71520594900</assignment_group>
+    <business_duration/>
+    <calendar_duration/>
+    <calendar_stc/>
+    <close_notes/>
+    <closed_at/>
+    <closed_by/>
+    <cmdb_ci/>
+    <comments/>
+    <comments_and_work_notes/>
+    <commworks_id/>
+    <company/>
+    <contact_type>phone</contact_type>
+    <correlation_display/>
+    <correlation_id/>
+    <description>
+      eGate - Please verify and mark the following CashCorrection_Ack_Maxine records as complete: "Maxine(CORRELATION_ID),KF(X-davita-egate-message-id|X-davita-egate-business-key~<user_properties>)" 4373879 4373910 4373924 4374013 4377125 4377364 4377371 4377381 4377750 4377752 4373769 4377770 4378060 4378084 4378099 4378063 4372474 4365838 4372498 4372501 4379136 4379204 4379205 4379167 4379378 4379319 4379342 4379260 4379394 4379419 4379417 4379415 4377113 4379420 4379569
+</description>
+    <dis_cw_int>false</dis_cw_int>
+    <due_date>2015-07-20 15:14:09</due_date>
+    <escalation>0</escalation>
+    <expected_start>2015-07-20 15:14:09</expected_start>
+    <follow_up/>
+    <group_list/>
+    <impact>3</impact>
+    <knowledge>false</knowledge>
+    <location>280d10b078488100ba880a8925f7fe7d</location>
+    <made_sla>true</made_sla>
+    <number>TASK0401113</number>
+    <opened_at>2015-07-20 15:14:09</opened_at>
+    <opened_by>154f62b678508900ba880a8925f7fede</opened_by>
+    <order/>
+    <parent>4df9cdfa7d1146802161ab9eae4ef923</parent>
+    <priority>5</priority>
+    <reassignment_count>0</reassignment_count>
+    <rejection_goto/>
+    <request>0df9cdfa7d1146802161ab9eae4ef923</request>
+    <request_item>4df9cdfa7d1146802161ab9eae4ef923</request_item>
+    <requested_for>154f62b678508900ba880a8925f7fede</requested_for>
+    <sc_catalog/>
+    <service_offering/>
+    <short_description>
+      eGate - Please verify and mark the following CashCorrection_Ack_Maxine records as complete
+    </short_description>
+    <skills/>
+    <sla_due/>
+    <state>1</state>
+    <sys_class_name>sc_task</sys_class_name>
+    <sys_created_by>mfasang</sys_created_by>
+    <sys_created_on>2015-07-20 15:14:09</sys_created_on>
+    <sys_domain>global</sys_domain>
+    <sys_id>61f9cdfa7d1146802161ab9eae4ef92f</sys_id>
+    <sys_mod_count>1</sys_mod_count>
+    <sys_updated_by>sw36217</sys_updated_by>
+    <sys_updated_on>2015-07-21 18:13:24</sys_updated_on>
+    <time_worked/>
+    <u_business_service>fb7d662be07d010023bed08aacdad53d</u_business_service>
+    <u_estimated_hardware_cost/>
+    <u_estimated_software_cost/>
+    <u_ftm_hours/>
+    <u_gtm_hours/>
+    <u_last_updated_by_caller>false</u_last_updated_by_caller>
+    <u_see_all_business_services>false</u_see_all_business_services>
+    <u_see_groups>false</u_see_groups>
+    <upon_approval>proceed</upon_approval>
+    <upon_reject>cancel</upon_reject>
+    <urgency>3</urgency>
+    <user_input/>
+    <variables/>
+    <watch_list/>
+    <wf_activity>ac4add16b001b100ba88d94f197fd063</wf_activity>
+    <work_end/>
+    <work_notes/>
+    <work_notes_list/>
+    <work_start/>
+  </sc_task>
+  <sc_task>
+    <active>true</active>
+    <activity_due/>
+    <approval>approved</approval>
+    <approval_history/>
+    <approval_set>2015-07-20 15:03:03</approval_set>
+    <assigned_to>ebd87ab678908900ba880a8925f7fed3</assigned_to>
+    <assignment_group>55a10764302c7100ba88c71520594900</assignment_group>
+    <business_duration/>
+    <calendar_duration/>
+    <calendar_stc/>
+    <close_notes/>
+    <closed_at/>
+    <closed_by/>
+    <cmdb_ci/>
+    <comments/>
+    <comments_and_work_notes/>
+    <commworks_id/>
+    <company/>
+    <contact_type>phone</contact_type>
+    <correlation_display/>
+    <correlation_id/>
+    <description>
+      CORRELATION_ID 89354812 89354811 89354810 89354809 89354808 89354807 89354805 89354804 89354803 89354802 89354787 89354786 89354785 89354783 89354776 89354775 89354774 89354773 89354771 89354770 89354769 89354768
+    </description>
+    <dis_cw_int>false</dis_cw_int>
+    <due_date>2015-07-20 15:03:03</due_date>
+    <escalation>0</escalation>
+    <expected_start>2015-07-20 15:03:03</expected_start>
+    <follow_up/>
+    <group_list/>
+    <impact>3</impact>
+    <knowledge>false</knowledge>
+    <location>280d10b078488100ba880a8925f7fe7d</location>
+    <made_sla>true</made_sla>
+    <number>TASK0401098</number>
+    <opened_at>2015-07-20 15:03:03</opened_at>
+    <opened_by>154f62b678508900ba880a8925f7fede</opened_by>
+    <order/>
+    <parent>2667c1b27d1146802161ab9eae4ef959</parent>
+    <priority>5</priority>
+    <reassignment_count>0</reassignment_count>
+    <rejection_goto/>
+    <request>e267c1b27d1146802161ab9eae4ef959</request>
+    <request_item>2667c1b27d1146802161ab9eae4ef959</request_item>
+    <requested_for>154f62b678508900ba880a8925f7fede</requested_for>
+    <sc_catalog/>
+    <service_offering/>
+    <short_description>
+      eGate - Please reprocess the following PayorResponse records from Oliver that failed to flow to Maxine
+    </short_description>
+    <skills/>
+    <sla_due/>
+    <state>1</state>
+    <sys_class_name>sc_task</sys_class_name>
+    <sys_created_by>mfasang</sys_created_by>
+    <sys_created_on>2015-07-20 15:03:03</sys_created_on>
+    <sys_domain>global</sys_domain>
+    <sys_id>8b6745b27d1146802161ab9eae4ef924</sys_id>
+    <sys_mod_count>1</sys_mod_count>
+    <sys_updated_by>sw36217</sys_updated_by>
+    <sys_updated_on>2015-07-21 18:07:59</sys_updated_on>
+    <time_worked/>
+    <u_business_service>5c8d662be07d010023bed08aacdad56f</u_business_service>
+    <u_estimated_hardware_cost/>
+    <u_estimated_software_cost/>
+    <u_ftm_hours/>
+    <u_gtm_hours/>
+    <u_last_updated_by_caller>false</u_last_updated_by_caller>
+    <u_see_all_business_services>false</u_see_all_business_services>
+    <u_see_groups>false</u_see_groups>
+    <upon_approval>proceed</upon_approval>
+    <upon_reject>cancel</upon_reject>
+    <urgency>3</urgency>
+    <user_input/>
+    <variables/>
+    <watch_list/>
+    <wf_activity>ac4add16b001b100ba88d94f197fd063</wf_activity>
+    <work_end/>
+    <work_notes/>
+    <work_notes_list/>
+    <work_start/>
+  </sc_task>
+  <problem_task>
+    <active>true</active>
+    <activity_due/>
+    <approval>not requested</approval>
+    <approval_history/>
+    <approval_set/>
+    <assigned_to>ae5cd728f1a5e900b2e16fd34cb1f172</assigned_to>
+    <assignment_group>84256ca40c0d9904b2e1b681da2e5235</assignment_group>
+    <business_duration/>
+    <calendar_duration/>
+    <close_notes/>
+    <closed_at/>
+    <closed_by/>
+    <cmdb_ci/>
+    <comments/>
+    <comments_and_work_notes/>
+    <commworks_id/>
+    <company/>
+    <contact_type>phone</contact_type>
+    <correlation_display/>
+    <correlation_id/>
+    <description>
+      Request for a domain bounce for the cash correction interface to force a new connection whenever new code is released.
+    </description>
+    <dis_cw_int>false</dis_cw_int>
+    <due_date>2015-08-10 13:56:34</due_date>
+    <escalation>0</escalation>
+    <expected_start/>
+    <follow_up/>
+    <group_list/>
+    <impact>1</impact>
+    <knowledge>false</knowledge>
+    <location/>
+    <made_sla>true</made_sla>
+    <number>PTASK0001761</number>
+    <opened_at>2015-07-13 13:56:34</opened_at>
+    <opened_by>1f5f9f0a1d55bd0023be9c845e43d0aa</opened_by>
+    <order/>
+    <parent/>
+    <priority>3</priority>
+    <problem>68a47c68fc99ce40b2e1e15c730b7baf</problem>
+    <reassignment_count>0</reassignment_count>
+    <rejection_goto/>
+    <requested_for>1f5f9f0a1d55bd0023be9c845e43d0aa</requested_for>
+    <service_offering/>
+    <short_description>eGate Production Issue</short_description>
+    <skills/>
+    <sla_due/>
+    <state>1</state>
+    <sys_class_name>problem_task</sys_class_name>
+    <sys_created_by>mivillar</sys_created_by>
+    <sys_created_on>2015-07-13 13:57:09</sys_created_on>
+    <sys_domain>global</sys_domain>
+    <sys_id>f415f0e8fc99ce40b2e1e15c730b7bb8</sys_id>
+    <sys_mod_count>0</sys_mod_count>
+    <sys_updated_by>mivillar</sys_updated_by>
+    <sys_updated_on>2015-07-13 13:57:09</sys_updated_on>
+    <time_worked/>
+    <u_business_service/>
+    <u_last_updated_by_caller>false</u_last_updated_by_caller>
+    <u_see_all_business_services>false</u_see_all_business_services>
+    <u_see_groups>false</u_see_groups>
+    <u_task_type>Corrective Action</u_task_type>
+    <upon_approval>proceed</upon_approval>
+    <upon_reject>cancel</upon_reject>
+    <urgency>3</urgency>
+    <user_input/>
+    <variables/>
+    <watch_list/>
+    <wf_activity/>
+    <work_end/>
+    <work_notes/>
+    <work_notes_list/>
+    <work_start/>
+  </problem_task>
+  <problem>
+    <active>true</active>
+    <activity_due/>
+    <approval>not requested</approval>
+    <approval_history/>
+    <approval_set/>
+    <assigned_to>ae5cd728f1a5e900b2e16fd34cb1f172</assigned_to>
+    <assignment_group>84256ca40c0d9904b2e1b681da2e5235</assignment_group>
+    <business_duration/>
+    <calendar_duration/>
+    <close_notes>Why was this Problem created?</close_notes>
+    <closed_at/>
+    <closed_by/>
+    <cmdb_ci/>
+    <comments/>
+    <comments_and_work_notes/>
+    <commworks_id/>
+    <company>c94993314a362312005cfc20c1aa15d2</company>
+    <contact_type>phone</contact_type>
+    <correlation_display/>
+    <correlation_id/>
+    <description>
+      This problem case has been opened to track the corrective actions from INC0978428, Request for a domain bounce for the cash correction interface to force a new connection whenever new code is released.
+    </description>
+    <dis_cw_int>false</dis_cw_int>
+    <due_date>2015-10-05 13:54:39</due_date>
+    <escalation>0</escalation>
+    <expected_start/>
+    <follow_up/>
+    <group_list/>
+    <impact>1</impact>
+    <knowledge>false</knowledge>
+    <known_error>true</known_error>
+    <location/>
+    <made_sla>true</made_sla>
+    <number>PRB0003863</number>
+    <opened_at>2015-07-13 13:54:39</opened_at>
+    <opened_by>1f5f9f0a1d55bd0023be9c845e43d0aa</opened_by>
+    <order/>
+    <parent/>
+    <priority>3</priority>
+    <problem_state>5</problem_state>
+    <problem_type>proactive</problem_type>
+    <reassignment_count>2</reassignment_count>
+    <rejection_goto/>
+    <related_incidents>1</related_incidents>
+    <requested_for>1f5f9f0a1d55bd0023be9c845e43d0aa</requested_for>
+    <rfc/>
+    <service_offering/>
+    <short_description>Oliver | eGate Production Issue</short_description>
+    <skills/>
+    <sla_due/>
+    <state>5</state>
+    <sys_class_name>problem</sys_class_name>
+    <sys_created_by>mivillar</sys_created_by>
+    <sys_created_on>2015-07-13 13:54:39</sys_created_on>
+    <sys_domain>global</sys_domain>
+    <sys_id>68a47c68fc99ce40b2e1e15c730b7baf</sys_id>
+    <sys_mod_count>9</sys_mod_count>
+    <sys_updated_by>mivillar</sys_updated_by>
+    <sys_updated_on>2015-07-16 15:41:30</sys_updated_on>
+    <time_worked/>
+    <u_actual_incident_deflection/>
+    <u_business_service>5c8d662be07d010023bed08aacdad56f</u_business_service>
+    <u_category>System/Not Working</u_category>
+    <u_est_monthly_volume>1-10</u_est_monthly_volume>
+    <u_last_updated_by_caller>false</u_last_updated_by_caller>
+    <u_problem_detection>Other IT Group Identification</u_problem_detection>
+    <u_problem_lane/>
+    <u_problem_type/>
+    <u_related_inc_category/>
+    <u_related_inc_subcategory>Data Movement</u_related_inc_subcategory>
+    <u_root_cause>
+      An Oliver release re-compiled code that was being referenced in an open eGate connection for the Maxine-Oliver Cash Correction interface. Once the code was compiled the open connection lost the reference but continued to try and call the code which resulted in an error message being returned to Maxine – Program unit could not be found.
+    </u_root_cause>
+    <u_root_cause_identified>true</u_root_cause_identified>
+    <u_see_all_business_services>false</u_see_all_business_services>
+    <u_see_groups>false</u_see_groups>
+    <u_triage_complete>false</u_triage_complete>
+    <u_village_message>
+      Thank you for reporting this issue. I understand that this is an inconvenience. Here is what we know about this Problem: Here is what we're doing to address it: Here's what we can do right now in order to resolve this issue, until we have identified a permanent solution:
+    </u_village_message>
+    <u_workaround>Bounce the domain SEA-AX0072:38</u_workaround>
+    <upon_approval>proceed</upon_approval>
+    <upon_reject>cancel</upon_reject>
+    <urgency>3</urgency>
+    <user_input/>
+    <variables/>
+    <watch_list/>
+    <wf_activity/>
+    <work_around/>
+    <work_end/>
+    <work_notes/>
+    <work_notes_list>
+      1f5f9f0a1d55bd0023be9c845e43d0aa,ae5cd728f1a5e900b2e16fd34cb1f172
+    </work_notes_list>
+    <work_start/>
+  </problem>
+  <problem_task>
+    <active>true</active>
+    <activity_due/>
+    <approval>not requested</approval>
+    <approval_history/>
+    <approval_set/>
+    <assigned_to>5e3abfd7a0c09d04216100e1204f7d4d</assigned_to>
+    <assignment_group>84256ca40c0d9904b2e1b681da2e5235</assignment_group>
+    <business_duration/>
+    <calendar_duration/>
+    <close_notes/>
+    <closed_at/>
+    <closed_by/>
+    <cmdb_ci/>
+    <comments/>
+    <comments_and_work_notes/>
+    <commworks_id/>
+    <company/>
+    <contact_type>phone</contact_type>
+    <correlation_display/>
+    <correlation_id/>
+    <description>
+      Ensure code fix gets put into place to resolve this issue permanently. Root Cause: There should not be an inbound error for inactive services in ROBEE. But because of the design gap, the ICD_Checksum error is being logged and shown on CIER report. Solution: Introduced temporary daily job to clean the above error until we have the code fix in place.
+    </description>
+    <dis_cw_int>false</dis_cw_int>
+    <due_date>2015-08-24 15:04:08</due_date>
+    <escalation>0</escalation>
+    <expected_start/>
+    <follow_up/>
+    <group_list/>
+    <impact>2</impact>
+    <knowledge>false</knowledge>
+    <location/>
+    <made_sla>true</made_sla>
+    <number>PTASK0001627</number>
+    <opened_at>2015-06-10 15:04:08</opened_at>
+    <opened_by>1ca4123278dc4900ba880a8925f7feae</opened_by>
+    <order/>
+    <parent/>
+    <priority>3</priority>
+    <problem>7b788215ec644a44216192341b6a1fc8</problem>
+    <reassignment_count>0</reassignment_count>
+    <rejection_goto/>
+    <requested_for>1ca4123278dc4900ba880a8925f7feae</requested_for>
+    <service_offering/>
+    <short_description>ROBEE | MEC task issues</short_description>
+    <skills/>
+    <sla_due/>
+    <state>20</state>
+    <sys_class_name>problem_task</sys_class_name>
+    <sys_created_by>kpederson</sys_created_by>
+    <sys_created_on>2015-06-10 15:12:20</sys_created_on>
+    <sys_domain>global</sys_domain>
+    <sys_id>74184b71ece00e44216192341b6a1f92</sys_id>
+    <sys_mod_count>3</sys_mod_count>
+    <sys_updated_by>kpederson</sys_updated_by>
+    <sys_updated_on>2015-06-22 16:40:38</sys_updated_on>
+    <time_worked/>
+    <u_business_service/>
+    <u_last_updated_by_caller>false</u_last_updated_by_caller>
+    <u_see_all_business_services>false</u_see_all_business_services>
+    <u_see_groups>false</u_see_groups>
+    <u_task_type>Corrective Action</u_task_type>
+    <upon_approval>proceed</upon_approval>
+    <upon_reject>cancel</upon_reject>
+    <urgency>2</urgency>
+    <user_input/>
+    <variables/>
+    <watch_list/>
+    <wf_activity/>
+    <work_end/>
+    <work_notes/>
+    <work_notes_list/>
+    <work_start/>
+  </problem_task>
+  <sc_task>
+    <active>true</active>
+    <activity_due/>
+    <approval>approved</approval>
+    <approval_history/>
+    <approval_set>2015-05-08 22:33:28</approval_set>
+    <assigned_to>5473f6be78508900ba880a8925f7fede</assigned_to>
+    <assignment_group>84256ca40c0d9904b2e1b681da2e5235</assignment_group>
+    <business_duration/>
+    <calendar_duration/>
+    <calendar_stc/>
+    <close_notes/>
+    <closed_at/>
+    <closed_by/>
+    <cmdb_ci/>
+    <comments/>
+    <comments_and_work_notes/>
+    <commworks_id/>
+    <company/>
+    <contact_type>phone</contact_type>
+    <correlation_display/>
+    <correlation_id/>
+    <description>
+      Hi , We need to have MS OFFICE installed on one of our test servers. This machine is being used for Test Automation purpose using HP UFT tool. Please help me to have this installed. Server: 192.168.37.190 Thanks, Ashok
+    </description>
+    <dis_cw_int>false</dis_cw_int>
+    <due_date>2015-05-08 22:33:28</due_date>
+    <escalation>0</escalation>
+    <expected_start>2015-05-08 22:33:28</expected_start>
+    <follow_up/>
+    <group_list/>
+    <impact>3</impact>
+    <knowledge>false</knowledge>
+    <location>67cc5c3078488100ba880a8925f7fea8</location>
+    <made_sla>true</made_sla>
+    <number>TASK0364488</number>
+    <opened_at>2015-05-08 22:33:28</opened_at>
+    <opened_by>5473f6be78508900ba880a8925f7fede</opened_by>
+    <order/>
+    <parent>b47276d3ecff31c0216192341b6a1f9b</parent>
+    <priority>5</priority>
+    <reassignment_count>2</reassignment_count>
+    <rejection_goto/>
+    <request>747276d3ecff31c0216192341b6a1f9b</request>
+    <request_item>b47276d3ecff31c0216192341b6a1f9b</request_item>
+    <requested_for>5473f6be78508900ba880a8925f7fede</requested_for>
+    <sc_catalog/>
+    <service_offering/>
+    <short_description>
+      need to have MS OFFICE installed on one of our test servers SD#APP
+    </short_description>
+    <skills/>
+    <sla_due/>
+    <state>1</state>
+    <sys_class_name>sc_task</sys_class_name>
+    <sys_created_by>atumati</sys_created_by>
+    <sys_created_on>2015-05-08 22:33:28</sys_created_on>
+    <sys_domain>global</sys_domain>
+    <sys_id>4172b6d3ecff31c0216192341b6a1fac</sys_id>
+    <sys_mod_count>3</sys_mod_count>
+    <sys_updated_by>bbanks</sys_updated_by>
+    <sys_updated_on>2015-05-12 18:30:20</sys_updated_on>
+    <time_worked/>
+    <u_business_service>098d662be07d010023bed08aacdad5bd</u_business_service>
+    <u_estimated_hardware_cost/>
+    <u_estimated_software_cost/>
+    <u_ftm_hours/>
+    <u_gtm_hours/>
+    <u_last_updated_by_caller>false</u_last_updated_by_caller>
+    <u_see_all_business_services>false</u_see_all_business_services>
+    <u_see_groups>false</u_see_groups>
+    <upon_approval>proceed</upon_approval>
+    <upon_reject>cancel</upon_reject>
+    <urgency>3</urgency>
+    <user_input/>
+    <variables/>
+    <watch_list/>
+    <wf_activity>ac4add16b001b100ba88d94f197fd063</wf_activity>
+    <work_end/>
+    <work_notes/>
+    <work_notes_list/>
+    <work_start/>
+  </sc_task>
+  <u_incident_task>
+    <active>true</active>
+    <activity_due/>
+    <approval>not requested</approval>
+    <approval_history/>
+    <approval_set/>
+    <assigned_to>8c5b263e78108900ba880a8925f7fe6f</assigned_to>
+    <assignment_group>84256ca40c0d9904b2e1b681da2e5235</assignment_group>
+    <business_duration/>
+    <calendar_duration/>
+    <close_notes/>
+    <closed_at/>
+    <closed_by/>
+    <cmdb_ci/>
+    <comments/>
+    <comments_and_work_notes/>
+    <commworks_id/>
+    <company/>
+    <contact_type>phone</contact_type>
+    <correlation_display/>
+    <correlation_id/>
+    <description>
+      DAFY | Egate received some alerts because the interfaces were unable to connect to the DAFY Database. Technical point for database query change consideration.
+    </description>
+    <dis_cw_int>false</dis_cw_int>
+    <due_date/>
+    <escalation>0</escalation>
+    <expected_start/>
+    <follow_up/>
+    <group_list/>
+    <impact>3</impact>
+    <knowledge>false</knowledge>
+    <location/>
+    <made_sla>true</made_sla>
+    <number>ITASK0001247</number>
+    <opened_at>2014-12-10 15:52:22</opened_at>
+    <opened_by>28fb577d68e99d00b2e123719f97b79c</opened_by>
+    <order/>
+    <parent/>
+    <priority>2</priority>
+    <reassignment_count>0</reassignment_count>
+    <rejection_goto/>
+    <requested_for/>
+    <service_offering/>
+    <short_description>
+      DAFY | Egate received some alerts because the interfaces were unable to connect to the DAFY Database.
+    </short_description>
+    <skills/>
+    <sla_due/>
+    <state>2</state>
+    <sys_class_name>u_incident_task</sys_class_name>
+    <sys_created_by>rnakama</sys_created_by>
+    <sys_created_on>2014-12-10 15:53:41</sys_created_on>
+    <sys_domain>global</sys_domain>
+    <sys_id>f4c1c2177430350423be4e5b46d538b0</sys_id>
+    <sys_mod_count>0</sys_mod_count>
+    <sys_updated_by>rnakama</sys_updated_by>
+    <sys_updated_on>2014-12-10 15:53:41</sys_updated_on>
+    <time_worked/>
+    <u_business_service/>
+    <u_incident>33cbf95774fcf10423be4e5b46d53884</u_incident>
+    <u_last_updated_by_caller>false</u_last_updated_by_caller>
+    <u_see_all_business_services>false</u_see_all_business_services>
+    <u_see_groups>false</u_see_groups>
+    <upon_approval>proceed</upon_approval>
+    <upon_reject>cancel</upon_reject>
+    <urgency>3</urgency>
+    <user_input/>
+    <variables/>
+    <watch_list/>
+    <wf_activity/>
+    <work_end/>
+    <work_notes/>
+    <work_notes_list/>
+    <work_start/>
+  </u_incident_task>
+  <sc_task>
+    <active>true</active>
+    <activity_due/>
+    <approval>approved</approval>
+    <approval_history/>
+    <approval_set>2014-07-28 14:44:28</approval_set>
+    <assigned_to>9e6e6a3678508900ba880a8925f7fe9a</assigned_to>
+    <assignment_group>84256ca40c0d9904b2e1b681da2e5235</assignment_group>
+    <business_duration/>
+    <calendar_duration/>
+    <calendar_stc/>
+    <close_notes/>
+    <closed_at/>
+    <closed_by/>
+    <cmdb_ci/>
+    <comments/>
+    <comments_and_work_notes/>
+    <commworks_id/>
+    <company/>
+    <contact_type>phone</contact_type>
+    <correlation_display/>
+    <correlation_id/>
+    <description>
+      Please assist Nautilus team to set up a RECON process to ensure all Nautilus claim images are getting to Sovera. That should include Patient Statements, 835s, and ePremis claims (in addition to claim images created directly by Nautilus).
+    </description>
+    <dis_cw_int>false</dis_cw_int>
+    <due_date>2014-07-28 14:44:28</due_date>
+    <escalation>0</escalation>
+    <expected_start>2014-07-28 14:44:28</expected_start>
+    <follow_up/>
+    <group_list/>
+    <impact>3</impact>
+    <knowledge>false</knowledge>
+    <location>67cc5c3078488100ba880a8925f7fea8</location>
+    <made_sla>true</made_sla>
+    <number>TASK0186301</number>
+    <opened_at>2014-07-28 14:44:28</opened_at>
+    <opened_by>f3e4de7278dc4900ba880a8925f7fe7f</opened_by>
+    <order/>
+    <parent>e1936a7370026d00b2e1b2c4f3de77a3</parent>
+    <priority>5</priority>
+    <reassignment_count>0</reassignment_count>
+    <rejection_goto/>
+    <request>a1936a7370026d00b2e1b2c4f3de77a3</request>
+    <request_item>e1936a7370026d00b2e1b2c4f3de77a3</request_item>
+    <requested_for>f3e4de7278dc4900ba880a8925f7fe7f</requested_for>
+    <sc_catalog/>
+    <service_offering/>
+    <short_description>
+      Please assist Nautilus team to set up a RECON process to ensure all Nautilus claim images are getting to Sovera NS#VIA
+    </short_description>
+    <skills/>
+    <sla_due/>
+    <state>1</state>
+    <sys_class_name>sc_task</sys_class_name>
+    <sys_created_by>daday</sys_created_by>
+    <sys_created_on>2014-07-28 14:44:28</sys_created_on>
+    <sys_domain>global</sys_domain>
+    <sys_id>4693ae7370026d00b2e1b2c4f3de77b7</sys_id>
+    <sys_mod_count>3</sys_mod_count>
+    <sys_updated_by>rstrange</sys_updated_by>
+    <sys_updated_on>2015-02-16 17:14:14</sys_updated_on>
+    <time_worked/>
+    <u_business_service>877d262be07d010023bed08aacdad5d9</u_business_service>
+    <u_estimated_hardware_cost/>
+    <u_estimated_software_cost/>
+    <u_ftm_hours/>
+    <u_gtm_hours/>
+    <u_last_updated_by_caller>false</u_last_updated_by_caller>
+    <u_see_all_business_services>false</u_see_all_business_services>
+    <u_see_groups>false</u_see_groups>
+    <upon_approval>proceed</upon_approval>
+    <upon_reject>cancel</upon_reject>
+    <urgency>3</urgency>
+    <user_input/>
+    <variables/>
+    <watch_list/>
+    <wf_activity>04cc2a4a997121001d405cdb74805688</wf_activity>
+    <work_end/>
+    <work_notes/>
+    <work_notes_list/>
+    <work_start/>
+  </sc_task>
+  <sc_task>
+    <active>true</active>
+    <activity_due/>
+    <approval>approved</approval>
+    <approval_history/>
+    <approval_set>2014-05-15 11:44:22</approval_set>
+    <assigned_to>9e6e6a3678508900ba880a8925f7fe9a</assigned_to>
+    <assignment_group>55a10764302c7100ba88c71520594900</assignment_group>
+    <business_duration/>
+    <calendar_duration/>
+    <calendar_stc/>
+    <close_notes/>
+    <closed_at/>
+    <closed_by/>
+    <cmdb_ci/>
+    <comments/>
+    <comments_and_work_notes/>
+    <commworks_id/>
+    <company/>
+    <contact_type>phone</contact_type>
+    <correlation_display/>
+    <correlation_id/>
+    <description>
+      User SKEODARA unable to access Oliver. Contact Robin Strange, confirmed user assigned required security group DMM in their AD account, but user not appearing on SEA-OLVWEB01 server. Have removed/reassigned access, issue persists. Morning Robin, Kristy stated you're not seeing SKEODARA on the SEA-OLVWEB01 Server for Oliver access. They is currently assigned the Oliver DMM security group In Active Directory. Is there anything else they need assigned to have access to Oliver? From: Kristy Bush Sent: Wednesday, May 14, 2014 4:12 PM To: Larry Cioeta Subject: RE: CARA Request Granted for SKEODARA on Oliver Robin Strange is the BA for Imaging & Oliver Kristy Bush
+    </description>
+    <dis_cw_int>false</dis_cw_int>
+    <due_date>2014-05-15 11:44:22</due_date>
+    <escalation>0</escalation>
+    <expected_start>2014-05-15 11:44:22</expected_start>
+    <follow_up/>
+    <group_list/>
+    <impact>3</impact>
+    <knowledge>false</knowledge>
+    <location>0bfcdc7078488100ba880a8925f7fe09</location>
+    <made_sla>true</made_sla>
+    <number>TASK0138370</number>
+    <opened_at>2014-05-15 11:44:22</opened_at>
+    <opened_by>8d49e23678108900ba880a8925f7fe55</opened_by>
+    <order/>
+    <parent>0eb47c88d530e900b2e1bbdbfe2b575c</parent>
+    <priority>5</priority>
+    <reassignment_count>3</reassignment_count>
+    <rejection_goto/>
+    <request>cab47c88d530e900b2e1bbdbfe2b575c</request>
+    <request_item>0eb47c88d530e900b2e1bbdbfe2b575c</request_item>
+    <requested_for/>
+    <sc_catalog/>
+    <service_offering/>
+    <short_description>Oliver Security Setup for DMM</short_description>
+    <skills/>
+    <sla_due/>
+    <state>2</state>
+    <sys_class_name>sc_task</sys_class_name>
+    <sys_created_by>lcioeta</sys_created_by>
+    <sys_created_on>2014-05-15 11:44:22</sys_created_on>
+    <sys_domain>global</sys_domain>
+    <sys_id>96b47c88d530e900b2e1bbdbfe2b5763</sys_id>
+    <sys_mod_count>11</sys_mod_count>
+    <sys_updated_by>daday</sys_updated_by>
+    <sys_updated_on>2014-11-26 16:28:41</sys_updated_on>
+    <time_worked/>
+    <u_business_service>8170c875e0de090023bed08aacdad526</u_business_service>
+    <u_estimated_hardware_cost/>
+    <u_estimated_software_cost/>
+    <u_ftm_hours/>
+    <u_gtm_hours/>
+    <u_last_updated_by_caller>false</u_last_updated_by_caller>
+    <u_see_all_business_services>false</u_see_all_business_services>
+    <u_see_groups>true</u_see_groups>
+    <upon_approval>proceed</upon_approval>
+    <upon_reject>cancel</upon_reject>
+    <urgency>3</urgency>
+    <user_input/>
+    <variables/>
+    <watch_list/>
+    <wf_activity>0c1291204d05d9401d405a3b07851124</wf_activity>
+    <work_end/>
+    <work_notes/>
+    <work_notes_list/>
+    <work_start/>
+  </sc_task>
+  <sc_task>
+    <active>true</active>
+    <activity_due/>
+    <approval>approved</approval>
+    <approval_history/>
+    <approval_set>2014-03-27 00:58:39</approval_set>
+    <assigned_to>9e6e6a3678508900ba880a8925f7fe9a</assigned_to>
+    <assignment_group>55a10764302c7100ba88c71520594900</assignment_group>
+    <business_duration/>
+    <calendar_duration/>
+    <calendar_stc/>
+    <close_notes/>
+    <closed_at/>
+    <closed_by/>
+    <cmdb_ci/>
+    <comments/>
+    <comments_and_work_notes/>
+    <commworks_id/>
+    <company/>
+    <contact_type>phone</contact_type>
+    <correlation_display/>
+    <correlation_id/>
+    <description>
+      CBR Unapplied Duplicate Oliver Unallocated / Trade AR Postings o When Trade AR is changed to Unallocated INL we are adding to Oliver Unallocated Data Store… when changed back to AR it is not being removed from Oliver Unallocated Data Store. Nikunj Patel is aware of this issue and will start working on this.
+    </description>
+    <dis_cw_int>false</dis_cw_int>
+    <due_date>2014-03-27 00:58:39</due_date>
+    <escalation>0</escalation>
+    <expected_start>2014-03-27 00:58:39</expected_start>
+    <follow_up/>
+    <group_list/>
+    <impact>3</impact>
+    <knowledge>false</knowledge>
+    <location>67cc5c3078488100ba880a8925f7fea8</location>
+    <made_sla>true</made_sla>
+    <number>TASK0111638</number>
+    <opened_at>2014-03-27 00:58:39</opened_at>
+    <opened_by>ef7b6e3e78108900ba880a8925f7fe3a</opened_by>
+    <order/>
+    <parent>a50b024838f3d180b2e159b3c3d39fdd</parent>
+    <priority>5</priority>
+    <reassignment_count>2</reassignment_count>
+    <rejection_goto/>
+    <request>250b024838f3d180b2e159b3c3d39fdd</request>
+    <request_item>a50b024838f3d180b2e159b3c3d39fdd</request_item>
+    <requested_for>ef7b6e3e78108900ba880a8925f7fe3a</requested_for>
+    <sc_catalog/>
+    <service_offering/>
+    <short_description>
+      Oliver CBR Unapplied Duplicate Oliver Unallocated / Trade AR Postings
+    </short_description>
+    <skills/>
+    <sla_due/>
+    <state>1</state>
+    <sys_class_name>sc_task</sys_class_name>
+    <sys_created_by>rc38475</sys_created_by>
+    <sys_created_on>2014-03-27 00:58:39</sys_created_on>
+    <sys_domain>global</sys_domain>
+    <sys_id>b10b424838f3d180b2e159b3c3d39f06</sys_id>
+    <sys_mod_count>4</sys_mod_count>
+    <sys_updated_by>sw36217</sys_updated_by>
+    <sys_updated_on>2015-07-21 18:51:50</sys_updated_on>
+    <time_worked/>
+    <u_business_service>5c8d662be07d010023bed08aacdad56f</u_business_service>
+    <u_estimated_hardware_cost/>
+    <u_estimated_software_cost/>
+    <u_ftm_hours/>
+    <u_gtm_hours/>
+    <u_last_updated_by_caller>false</u_last_updated_by_caller>
+    <u_see_all_business_services>false</u_see_all_business_services>
+    <u_see_groups>true</u_see_groups>
+    <upon_approval>proceed</upon_approval>
+    <upon_reject>cancel</upon_reject>
+    <urgency>3</urgency>
+    <user_input/>
+    <variables/>
+    <watch_list/>
+    <wf_activity>0c1291204d05d9401d405a3b07851124</wf_activity>
+    <work_end/>
+    <work_notes/>
+    <work_notes_list/>
+    <work_start/>
+  </sc_task>
+</xml>
